@@ -56,5 +56,6 @@
   "browser": "browser.js",
   "xo": {
     "esnext": true
-  }
+  },
+  "types" : "is-online.d.ts"
 }
