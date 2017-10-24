@@ -21,7 +21,8 @@
   "files": [
     "index.js",
     "browser.js",
-    "hostnames.js"
+    "hostnames.js",
+    "is-online.d.ts"
   ],
   "keywords": [
     "browser",
